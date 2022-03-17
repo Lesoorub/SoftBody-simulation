@@ -1,2 +1,6 @@
 # SoftBody-simulation
-circle-circle, circle-rectangle collisions and springs simulation.
+
+Симуляция физического объекта на основе примитивов и связей между ними.
+Для увеличения прочности были добавлены дополнительные связи.
+
+Используемые технологии: SFML.NET, C# 7.0
