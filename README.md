@@ -1,6 +1,6 @@
 # SoftBody-simulation
 
-[![Watch the video](https://i.imgur.com/BAKXmro.png)](https://youtu.be/yteuMzlYNFI)
+[![Watch the video](https://img.youtube.com/vi/yteuMzlYNFI/0.jpg)](https://youtu.be/yteuMzlYNFI)
 
 Симуляция физического объекта на основе примитивов и связей между ними.
 Для увеличения прочности были добавлены дополнительные связи.
